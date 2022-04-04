@@ -7,6 +7,7 @@ If/when Microsoft adds [global hotkey / shortcut support](https://microsoftteams
 There are three AppleScripts included here bringing the following functionality to Microsoft Teams:
 - Global mute toggle (Shift + ⌘ + M)
 - Global video toggle (Shift + ⌘ + O)
+- Global raise hand toggle (Shift + ⌘ + K)
 - Global leave meeting (Shift + ⌘ + B)
 
 I've commented each AppleScript thoroughly so it should easy to understand what each script is doing. Essentially, each script simply switches the focus to Microsoft Teams, sends the hotkey, and then switches back to the application that was in focus previously.
