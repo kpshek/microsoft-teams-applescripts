@@ -1,3 +1,5 @@
+# This repository has been obsoleted by [Microsoft's native Teams plugin for the Elgato Stream Deck](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/teams-plugin-for-elgato-stream-deck-re-released-also-run-with/ba-p/3767650). As such, this repository is being archived and no longer maintained. #
+
 # Overview
 
 This repository contains various AppleScripts that add pseudo global hotkey / shortcut support for Microsoft Teams. I use these scripts with an [Elgato Stream Deck](https://www.elgato.com/en/stream-deck) to toggle mute, toggle video, and leave a meeting anywhere in MacOS.
